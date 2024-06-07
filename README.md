@@ -1,2 +1,2 @@
 # wonderlust
-A web application similar to Airbnb for listings has features such as user authentication, image uploading,Maps.
+A web application similar to Airbnb for listing Hotels, Villas. Has features such as user authentication, image uploading, reviews, Maps.
